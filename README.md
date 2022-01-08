@@ -6,4 +6,4 @@ Input image(Lebron) and reference image(Ronaldo):
 
 Output image(Lebron in Ronaldo's pose):
 
-![](https://github.com/mifanbing/ChangePose/blob/main/output.png)
+![](https://github.com/mifanbing/ChangePose/blob/main/output1.png)
